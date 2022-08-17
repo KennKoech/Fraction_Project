@@ -1,0 +1,5 @@
+﻿  FractionTester3.cpp
+C:\Users\kennk\source\repos\Fraction_Project\FractionTester3.cpp(72,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kennk\source\repos\Fraction_Project\FractionTester3.cpp(76,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kennk\source\repos\Fraction_Project\FractionTester3.cpp(124,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fraction_Project.vcxproj -> C:\Users\kennk\source\repos\Fraction_Project\Debug\Fraction_Project.exe
